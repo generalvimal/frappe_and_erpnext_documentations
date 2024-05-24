@@ -16,6 +16,7 @@ This repository is a collection of documents that provide insights into certain 
 
 - [Nginx not working](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/0cac442673831bd2b44b139b1d5d3fdbcc59897e/nginx_not_working.md)
 - [Filter inside a report filter](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/0cac442673831bd2b44b139b1d5d3fdbcc59897e/erpnext_filter_inside_report_filter.md)
+- [Usage of frappe HTML Field Type ](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/0cac442673831bd2b44b139b1d5d3fdbcc59897e/frappe_html_field_type_usages.md)
 
 ## How to Use
 
