@@ -14,9 +14,7 @@ This repository is a collection of documents that provide insights into certain 
 
 ## 📄 Index
 
-- [Nginx not working](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/0cac442673831bd2b44b139b1d5d3fdbcc59897e/nginx_not_working.md)
-- [Filter inside a report filter](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/0cac442673831bd2b44b139b1d5d3fdbcc59897e/erpnext_filter_inside_report_filter.md)
-- [Get password as text](https://github.com/generalvimal/frappe_and_erpnext_documentations/blob/cabbb6c9414a48ae8a688bdd8d3621116f0774b4/get_password_as_text.md)
+- Index has now been moved to a seperate HTML page for ease of use: https://generalvimal.github.io/frappe_and_erpnext_documentations_index/
 
 ## How to Use
 
