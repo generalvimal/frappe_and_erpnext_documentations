@@ -1,0 +1,10 @@
+update options in form and form child table
+
+# form field
+============
+frm.set_df_property(form_field, 'options', list_of_options ) 
+frm.fields_dict.form_field.set_options()
+
+# form child table field
+===========================
+frm.fields_dict.child_table_name.grid.update_docfield_property(chil_table_field_name, 'options', list_of_options)); 
