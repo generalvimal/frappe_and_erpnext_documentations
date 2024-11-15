@@ -95,3 +95,7 @@ This should fix the issue in most cases. In case if it didn't work try the follo
 ``` sudo service nginx restart ```
 
 ``` sudo service supervisor restart ```
+
+If nothing seems to work just do:
+
+``` sudo reboot ```
